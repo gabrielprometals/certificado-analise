@@ -1,0 +1,8 @@
+# Backups exportados pelo sistema contêm dados de clientes — não versionar
+certificados-backup_*.json
+*.json
+
+# Arquivos do sistema operacional
+.DS_Store
+Thumbs.db
+desktop.ini
